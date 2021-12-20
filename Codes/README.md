@@ -8,7 +8,7 @@ O código do controle basicamente lê todos os 8 botões (7 mais o do analógico
 
 A placa de desenvolvimento utilizada foi a Basys 2 da Digilent:
 
-<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/basys2.png" width="300">
+<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/basys2.png" width="500">
 
 ## Código da FPGA
 O código em VHDL possui a seguinte estrutura:
