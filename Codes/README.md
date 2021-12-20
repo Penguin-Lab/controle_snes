@@ -31,7 +31,7 @@ Para conectar os sinais aos pinos físicos da placa, temos o [pinmap.ucf](https:
 ## Pinos do controle
 O controle possui um conector de 6 pinos com os seguintes sinais cuja sequência segue os terminais de conexão externa da placa:
 
-<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle.png" width="300">
+<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle1.png" width="500">
 
   - **VCC**: alimentação do controle
   - **GND**: referência
