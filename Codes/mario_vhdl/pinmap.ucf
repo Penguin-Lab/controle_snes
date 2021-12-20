@@ -1,0 +1,63 @@
+# Clock
+#NET clock LOC = "B8";
+NET reset LOC = "A7";
+NET clock LOC = "M6";
+
+# Switch
+#NET switches(7) LOC = "N3";
+#NET switches(6) LOC = "E2";
+#NET switches(5) LOC = "F3";
+#NET switches(4) LOC = "G3";
+#NET switches(3) LOC = "B4";
+#NET switches(2) LOC = "K3";
+#NET switches(1) LOC = "L3";
+#NET switches(0) LOC = "P11";
+
+# Buttons
+#NET button(3) LOC = "A7";
+#NET button(2) LOC = "M4";
+#NET button(1) LOC = "C11";
+#NET button(0) LOC = "G12";
+
+# Leds
+#NET leds(7) LOC = "G1";
+#NET leds(6) LOC = "P4";
+#NET leds(5) LOC = "N4";
+#NET leds(4) LOC = "N5";
+#NET leds(3) LOC = "P6";
+#NET leds(2) LOC = "P7";
+#NET leds(1) LOC = "M11";
+#NET leds(0) LOC = "M5";
+
+# Displays
+#NET display(7) LOC = "N13";	# Dot
+#NET display(6) LOC = "M12";	# G
+#NET display(5) LOC = "L13";	# F
+#NET display(4) LOC = "P12";	# E
+#NET display(3) LOC = "N11";	# D
+#NET display(2) LOC = "N14";	# C
+#NET display(1) LOC = "H12";	# B
+#NET display(0) LOC = "L14";	# A
+
+# Anodes
+#NET an(0) LOC = "F12";
+#NET an(1) LOC = "J12";
+#NET an(2) LOC = "M13";
+#NET an(3) LOC = "K14";
+
+# Wires
+NET rx LOC = "A3";
+#NET led LOC = "J3";
+#NET buzzer LOC = "B5";
+
+# VGA
+NET hs LOC = "J14";
+NET vs LOC = "K13";
+NET red(2) LOC = "F13";
+NET red(1) LOC = "D13";
+NET red(0) LOC = "C14";
+NET green(2) LOC = "G14";
+NET green(1) LOC = "G13";
+NET green(0) LOC = "F14";
+NET blue(1) LOC = "J13";
+NET blue(0) LOC = "H13";
