@@ -40,3 +40,7 @@ Os componentes eletrônicos utilizados para a confecção da placa são:
 
 # Software
 Na pasta [Codes](https://github.com/Penguin-Lab/controle_snes/tree/main/Codes), há o código de programação do arduino e da FPGA.
+
+# Vídeo de teste
+Caso queira ver um teste com o sistema funcionando, e com a implementação ainda do som do jogo sendo tocado no buzzer do controle, adicionamos um vídeo no [canal do Lab](https://www.youtube.com/channel/UCKsklKPVTsWEkaLD-hVZmng)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQuVJGI_RX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
