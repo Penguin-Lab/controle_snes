@@ -4,7 +4,7 @@ Os códigos estão separados em código para o ATMEGA328P (arduino) do controle 
 ## Código do controle
 O código do controle basicamente lê todos os 8 botões (7 mais o do analógico) e o joystick (analógicos vertical e horizontal), e envia via UART pelo pino RX do controle para a FPGA. Perceba que o pino se chama RX por ser o receptor da FPGA.
 
-<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle.png" width="300"> <img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/controle4.jpg" width="300"> <img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle1.png" width="300">
+<img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle.png" width="300"> <img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/controle4.jpg" width="300"> <img src="https://github.com/Penguin-Lab/controle_snes/blob/main/images/pinos_controle1.png" width="500">
 
 A placa de desenvolvimento utilizada foi a Basys 2 da Digilent:
 
